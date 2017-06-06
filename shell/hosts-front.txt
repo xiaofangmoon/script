@@ -1,0 +1,10 @@
+192.168.56.84   host1.com #xiaofang    1
+192.168.56.87   host1.com #1    2
+192.168.56.96   host1.com  #2   3
+192.168.55.132   bigstatic.bitautoimg.com  #周向林  4
+
+192.168.56.14   bigstatic.bitautoimg.com  #测试环境  6
+192.168.56.73   bigstatic.bitautoimg.com  #测试环境  7
+192.168.56.132   bigstatic.bitautoimg.com  #测试环境 8
+
+192.168.56.174   bigstatic.bitautoimg.com  #测试环境  100
